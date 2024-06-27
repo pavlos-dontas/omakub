@@ -20,6 +20,9 @@ alias bat='batcat'
 alias lzg='lazygit'
 alias lzd='lazydocker'
 
+# Drupal
+alias dcr='drush cr'
+
 # Git
 alias gcm='git commit -m'
 alias gcam='git commit -a -m'

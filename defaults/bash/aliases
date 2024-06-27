@@ -22,6 +22,8 @@ alias lzd='lazydocker'
 
 # Drupal
 alias dcr='drush cr'
+alias ddcr='ddev drush cr'
+
 
 # Git
 alias gcm='git commit -m'
